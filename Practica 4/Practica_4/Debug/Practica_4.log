@@ -1,0 +1,7 @@
+﻿  secuencia.cpp
+c:\users\maryn\desktop\practica_4\practica_4\secuencia.cpp(104): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  puntuaciones.cpp
+  main.cpp
+  juego.cpp
+  Generando código...
+  Practica_4.vcxproj -> C:\Users\maryn\Desktop\Practica_4\Debug\Practica_4.exe

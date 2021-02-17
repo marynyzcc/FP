@@ -1,0 +1,17 @@
+                             
+		             MASTERMIND
+                             ==========
+
+Descubre el codigo secreto! En cada partida, pensare un codigo de
+colores que tendras que adivinar. En cada intento que hagas te dare 
+pistas, diciendote cuantos colores de los que has dicho estan bien
+colocados, y cuantos no.
+Los colores colores son: ROJO(R) - AZUL(A) - AMARILLO(X) - MARRON(M) - BLANCO(B)
+ 
+Averigua el codigo secreto en el menor numero posible de intentos!
+
+	1. Jugar con un codigo sin colores repetidos
+	2. Jugar con un codigo con colores repetidos
+	0. Salir
+
+
