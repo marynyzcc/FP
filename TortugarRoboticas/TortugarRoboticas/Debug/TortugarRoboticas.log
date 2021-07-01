@@ -1,0 +1,7 @@
+﻿  juego.cpp
+  main.cpp
+  puntuaciones.cpp
+  secuencia.cpp
+C:\Users\maryn\Desktop\TortugarRoboticas\TortugarRoboticas\secuencia.cpp(98,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  TortugarRoboticas.vcxproj -> C:\Users\maryn\Desktop\TortugarRoboticas\Debug\TortugarRoboticas.exe
