@@ -1,7 +1,5 @@
 //Hecho por: Maryny Zara Castada Collado y Richard Junior Mercado Correa
 
-//-----------------------------------------PRACTICA 2--------------------------------------------------
-
 #include <iostream>
 #include<fstream>
 #include <cstdlib>
