@@ -1,3 +1,4 @@
+# PIEDRA-PAPEL-TIJERAS-LAGARTO-SPOCK
 
 REGLAS DEL JUEGO:
 Las tijeras ganan al papel (lo cortan), el papel gana a la piedra (la envuelve), 
