@@ -7,5 +7,3 @@ Spock gana a las tijeras (las rompe), las tijeras ganan al lagarto (lo decapitan
 el lagarto gana al papel (lo devora), el papel gana a Spock (lo desautoriza), 
 Spock gana a la piedra (la vaporiza) y la piedra gana a las tijeras (las aplasta). 
 Elementos iguales producen un empate.
-
-XXX
