@@ -1,6 +1,6 @@
-# Mastermind
-
-Reglas del juego:
+                             
+		             MASTERMIND
+                             ==========
 
 Descubre el codigo secreto! En cada partida, pensare un codigo de
 colores que tendras que adivinar. En cada intento que hagas te dare 
